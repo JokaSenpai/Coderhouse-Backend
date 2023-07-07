@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "sosse",
+    "description": "Americano clasico",
+    "price": 1700,
+    "thumbnail": [
+      [
+        "jack-daniels.png"
+      ]
+    ],
+    "code": "44447",
+    "stock": 10,
+    "category": "Whisky",
+    "status": true
+  },
+  {
+    "id": 3,
+    "title": "Cerveza Patagonia",
+    "description": "Cerveza semi artesanal",
+    "price": 140,
+    "thumbnail": "cerveza-patagonia.jpg",
+    "code": "5555",
+    "stock": 2,
+    "category": "Cervezas",
+    "status": true
+  },
+  {
+    "id": 4,
+    "title": "Jack Daniels",
+    "description": "Americano clasico",
+    "price": 170022,
+    "thumbnail": [
+      [
+        "jack-daniels.png"
+      ]
+    ],
+    "code": "4447",
+    "stock": 10,
+    "category": "Whisky",
+    "status": true
+  },
+  {
+    "id": 5,
+    "title": "some",
+    "description": "Americano clasico",
+    "price": 1700,
+    "thumbnail": [
+      [
+        "jack-daniels.png"
+      ]
+    ],
+    "code": "4444343437",
+    "stock": 10,
+    "category": "Whisky",
+    "status": true
+  }
+]
